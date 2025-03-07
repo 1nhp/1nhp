@@ -1,7 +1,7 @@
-<div class="toc">
-<ul style="list-style: none">
+<div id="toc">
+  <ul style="list-style: none">
     <summary>
-      <h1> My Text </h1>
+      <h1 align="center">Hi im Maritosu👋</h1>
     </summary>
-</ul>
+  </ul>
 </div>
