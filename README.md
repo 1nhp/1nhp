@@ -25,4 +25,4 @@
    
  ![](https://github-readme-stats.vercel.app/api?username=1nhp&show_icons=true&theme=radical)
 
- <img src="https://i.imgur.com/Ua7AY4i.gif" style="animation: none;">
+ <img src="https://i.imgur.com/93Jqelq.gif">
