@@ -12,7 +12,8 @@
       <a href="https://godotengine.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png?20170822201738" width="45px"></img></a>&thinsp;
       <a href="https://archlinux.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/512px-Arch_Linux_%22Crystal%22_icon.svg.png" width="40px" alt="W linux distro"></a></img>&thinsp;
       <a href="https://obsproject.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/OBS_Studio_logo.png/1200px-OBS_Studio_logo.png?20190328042108" width="40px"></a>&thinsp;
-      <a href="https://www.audacityteam.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/256px-Audacity_Logo.svg.png?20121030013421" width="40px"></a></img>
+      <a href="https://www.audacityteam.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/256px-Audacity_Logo.svg.png?20121030013421" width="40px"></a></img><br><br>
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nhp)](https://github.com/anuraghazra/github-readme-stats)
     </summary>
   </ul>
 </div>
