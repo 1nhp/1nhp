@@ -6,7 +6,7 @@
       <p>Im a 15 Year old Juniour, Web, Godot Developer, Small Content Creator and a Gamer</p>
       <br><br>
       <h1>Languages and tools im learning</h1>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_G0QSVtsDBYq66RVpCbC1Is2ox834jbAYBQ&s" width="50px"></img>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.png" width="50px"></img>
     </summary>
   </ul>
 </div>
