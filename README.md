@@ -6,7 +6,7 @@
       <p>Im a 15 Year old Juniour, Web, Godot Developer, Small Content Creator and a Gamer</p>
       <br><br>
       <h1>Languages and tools im learning</h1>
-      <a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_G0QSVtsDBYq66RVpCbC1Is2ox834jbAYBQ&s" width="50px"></img>
     </summary>
   </ul>
 </div>
