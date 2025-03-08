@@ -24,6 +24,6 @@
  <h1>Stats📊</h1>
    
  ![](https://github-readme-stats.vercel.app/api?username=1nhp&show_icons=true&theme=radical)<br><br><br><br>
-
+<h1>Social media links</h1>
  <img src="https://i.imgur.com/y8l4BmS.png" width="130px">
  <img src="https://i.imgur.com/3OzmlGe.png" width="130px">
