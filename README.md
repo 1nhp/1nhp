@@ -31,10 +31,20 @@ Im a 15 year old | Juniour Web, Godot, Developer, Small Content Creator and game
 
 ![Maritosu's Github Stats](https://github-readme-stats.vercel.app/api?username=1nhp&show_icons=true&theme=dracula)
 
-<p>Doesn't matter if its a shitty rank i havent started coding anything or contributed to open source projects yet</p>
+Doesn't matter if its a shitty rank i havent started coding anything or contributed to open source projects yet
 <br><br><br>
 
 
 
 # Social Media links
-[![YT](svgs/promo-yt.svg)](https://zen-browser.app/)
+[![YT](svgs/promo-yt.svg)](https://www.youtube.com/@Maritosu)
+[![Site](svgs/promo-site.svg)](https://1nhp.github.io/my-personal-website/)
+[![Twitter](svgs/promo-twitter.svg)](https://x.com/Baldguyakamari)
+<br><br><br>
+
+
+
+# Contact me
+You can contact me on discord: via these methods:
+
+[Click here](contactme.md)
