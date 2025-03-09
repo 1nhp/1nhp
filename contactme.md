@@ -9,6 +9,7 @@ Click my icon or my name
 ![](images/discord-t3.png)
 
 After you open my profile click the "Message" button
+
 ![](images/discord-t4.png)
 
 And there you go! let me know what you want from me assistance or request to work on something
