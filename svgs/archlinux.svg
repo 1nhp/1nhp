@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.0"
+   id="svg8"
+   sodipodi:docname="archlinux.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.634864"
+     inkscape:cx="59.980185"
+     inkscape:cy="41.317286"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs6">
+    <linearGradient
+       xlink:href="#a"
+       id="d"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.53055388,0,0,0.53052694,459.1266,-3.7577856)"
+       x1="541.33502"
+       y1="104.50665"
+       x2="606.91248"
+       y2="303.14029" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="a"
+       y2="129.3468"
+       x2="112.49853"
+       y1="6.1372099"
+       x1="112.49854"
+       gradientTransform="translate(287,-83)">
+      <stop
+         offset="0"
+         style="stop-color:#fff;stop-opacity:0"
+         id="stop1" />
+      <stop
+         offset="1"
+         style="stop-color:#fff;stop-opacity:.27450982"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="b">
+      <stop
+         style="stop-color:#00bdec"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#40bfde"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="c">
+      <stop
+         style="stop-color:#6e6e6e"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#4d4d4d"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <path
+     style="fill:#1793d1;stroke-width:0.185022"
+     d="M 23.898385,0.21575606 C 21.790109,5.3846846 20.510036,8.7705815 18.162748,13.785857 c 1.439182,1.525533 3.207935,3.29554 6.076768,5.301995 C 21.155239,17.81869 19.05273,16.547797 17.480485,15.225548 14.476406,21.494024 9.7668191,30.419693 0.21575409,47.581018 7.7206885,43.248287 13.538639,40.57583 18.960649,39.555751 18.728678,38.555836 18.60476,37.469177 18.613735,36.34102 l 0.0057,-0.237058 c 0.119115,-4.809422 2.62162,-8.50766 5.585308,-8.256543 2.963686,0.251116 5.270781,4.35488 5.151667,9.164299 -0.02244,0.905902 -0.127758,1.776349 -0.306441,2.584506 5.363658,1.049651 11.126741,3.710202 18.530965,7.984794 -1.46017,-2.688279 -2.768002,-5.110237 -4.012634,-7.418169 -1.960494,-1.519516 -4.004402,-3.496412 -8.175595,-5.637344 2.867041,0.744975 4.921886,1.60644 6.521973,2.567159 C 29.260253,13.532179 28.237898,10.399357 23.898385,0.21575606 Z"
+     id="path6" />
+</svg>
