@@ -48,3 +48,7 @@ Doesn't matter if its a shitty rank i havent started coding anything or contribu
 You can contact me on discord: via these methods:
 
 [Click here](contactme.md)
+
+You can also contact me on gmail with this email address:
+
+maritosucontact@gmail.com
