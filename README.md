@@ -1,6 +1,6 @@
 # Hi im Maritosu👋
 
-Im a 15 year old | Juniour Web, Godot, Developer, Small Content Creator and gamer i've been learning Web development for mostly a year
+Im a 15 year old | Juniour Web, Python, Coder, Small Content Creator and gamer i've been learning Web development for mostly a year
 <br><br><br>
 
 I tend to keep learning that one language till i dont fell like im going to move to another languages im Yet another passionate developer i enjoy coding most times
@@ -15,7 +15,7 @@ check my website for more info on my living:
 [![HTML](svgs/html.svg)](https://www.w3schools.com/html/)
 [![CSS](svgs/css.svg)](https://www.w3schools.com/css/)
 [![JavaScript](svgs/js.svg)]((https://www.w3schools.com/js/))
-[![Godot](svgs/godot.svg)](https://godotengine.org)
+[![Python](svgs/python.svg)](https://python.org)
 <br><br><br>
 
 
