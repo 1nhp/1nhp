@@ -10,7 +10,7 @@ Im a 15 year old | Juniour Web, Python, Developer, Small Content Creator and gam
 [![HTML](svgs/html.svg)](https://www.w3schools.com/html/)
 [![CSS](svgs/css.svg)](https://www.w3schools.com/css/)
 [![JavaScript](svgs/js.svg)]((https://www.w3schools.com/js/))
-[![Godot](svgs/python.svg)](https://python.org)
+[![Python](svgs/python.svg)](https://python.org)
 <br><br><br>
 
 
