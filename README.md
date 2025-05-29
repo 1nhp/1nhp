@@ -38,7 +38,7 @@ Doesn't matter if its a shitty rank i havent started coding anything or contribu
 
 # Social Media links
 [![YT](svgs/promo-yt.svg)](https://www.youtube.com/@Maritosu)
-[![Site](svgs/promo-site.svg)](https://1nhp.github.io/my-personal-website/)
+[![Site](svgs/promo-site.svg)](https://maritosu.vercel.app)
 [![Twitter](svgs/promo-twitter.svg)](https://x.com/Baldguyakamari)
 <br><br><br>
 
