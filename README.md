@@ -1,6 +1,6 @@
 # Hi im Maritosu👋
 
-Im a 15 year old | Juniour Web, Python, Developer, GMS2, Coder, Small Content Creator and gamer i've been learning Web development for mostly a year
+Im a 15 year old | Juniour Web, Godot, Coder, Small Content Creator and gamer i've been learning development for mostly a year
 <br><br><br>
 
 
@@ -9,26 +9,12 @@ Im a 15 year old | Juniour Web, Python, Developer, GMS2, Coder, Small Content Cr
 
 html
 css
-gamemaker 2 language
+godot
 <br><br><br>
-
-
-
-# Tools im using🔨
-
-[![Audacity](svgs/audacity.svg)](https://audacity.org)
-[![OBS](svgs/obstudio.svg)](https://obsproject.com)
-[![VsCode](svgs/vscode.svg)](https://code.visualstudio.com/)
-[![Zen](svgs/zen.svg)](https://zen-browser.app/)
-<br><br><br>
-
-
 
 # Stats 📊
 
 ![Maritosu's Github Stats](https://github-readme-stats.vercel.app/api?username=1nhp&show_icons=true&theme=dracula)
-
-Doesn't matter if its a shitty rank i havent started coding anything or contributed to open source projects yet
 <br><br><br>
 
 
