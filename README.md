@@ -1,6 +1,6 @@
 # Hi im Maritosu👋
 
-Im a 15 year old | Juniour Web, Godot, Coder, Small Content Creator and gamer i've been learning development for mostly a year
+Im a 16 year old | Juniour Web, Godot, Coder, Small Content Creator and gamer i've been learning development for mostly a year
 <br><br><br>
 
 
