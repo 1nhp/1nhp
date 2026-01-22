@@ -2,7 +2,6 @@
 
 Im a 16 year old | Juniour Web, Godot, Coder, Small Content Creator and gamer i've been learning development for mostly a year
 <br><br><br>
-https://mega.nz/file/SeYCnBZL#6aIIpxDBKIMifoLw2LGUCbh15p8l5OSKCw83ZdhEsz0
 
 
 # Languages im learning💻
