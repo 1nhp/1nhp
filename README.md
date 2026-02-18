@@ -2,17 +2,15 @@
 
 Im a 16 year old | Juniour Web, Godot, Coder, Small Content Creator and gamer i've been learning development for mostly a year
 <br><br><br>
-https://mega.nz/file/TDAxSYTL#tHMvizjkQPaELcAPmatVDfzzq_xlQQnEpAAe_oD1mps
 # Languages im learning💻
-https://mega.nz/file/WfRwULQb#eR96TWqKuxYSfv3YkS5LS6a2FKKQHrPe3cKP8QP9604
-html
+
 css
 godot
 <br><br><br>
 
 # Stats 📊
 
-![Maritosu's Github Stats](https://github-readme-stats.vercel.app/api?username=1nhp&show_icons=true&theme=dracula)
+<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra"><img src="https://github-stats-extended.vercel.app/api?username=1nhp"></a>
 <br><br><br>
 
 
