@@ -4,8 +4,7 @@ Im a 16 year old | Juniour Web, Godot, Coder, Small Content Creator and gamer i'
 <br><br><br>
 # Languages im learning💻
 
-css
-godot
+HTML, CSS, Python, GDScript
 <br><br><br>
 
 # Stats 📊
