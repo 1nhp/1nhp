@@ -1,5 +1,4 @@
 # Hi im GlitchyZulfur4👋
-https://drive.google.com/drive/folders/1QQXmtDynyfwoRtaoQHsx-ztimn48D1aQ?usp=sharing
 
 Im a 16 year old | Juniour Web, Godot, Coder, Small Content Creator and gamer i've been learning development for mostly a year
 <br><br><br>
