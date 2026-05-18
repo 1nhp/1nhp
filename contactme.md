@@ -1,4 +1,5 @@
 First type maritosu in "ADD FRIEND" section no this is not adding me i do not accept friend requests
+https://drive.google.com/drive/folders/1QQXmtDynyfwoRtaoQHsx-ztimn48D1aQ
 
 ![](images/discord-t1.png)
 Now click the "Add Friend button"
