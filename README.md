@@ -3,7 +3,7 @@
 Im a 16 year old whose is a passionate self thaught programmer and is trying to be one
 <br><br>
 # MY HOBBIES
-Web Developer, Programmer, Video Editor, Basketball(yes lol), Gamer, Linux masochist, Microslop hater
+Web Developer, Programmer, Video Editor, Basketball(yes lol), Gamer. 
 
 ### WEB DEVELOPMENT
 
@@ -15,7 +15,6 @@ JavaScript(40%)
 
 ### Programming
 
-C++ (20%)
 C# (30%)
 GDscript (50%, no longer being used as much as im going to plan on moving my Godot projects code to C#!)
 <br><br><br>
