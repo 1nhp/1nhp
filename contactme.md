@@ -7,6 +7,8 @@ https://www.youtube.com/live/AKNWUy9jLgs?feature=share
 
 
 live_1428356526_uQcbMjGsWiwMQbhzDjElnmO9Y5xNyG
+
+https://drive.google.com/file/d/1K0baOUK-4oqyfXjJ809QS-r2cI-ZYFx2/view
 ![](images/discord-t1.png)
 Now click the "Add Friend button"
 
