@@ -7,7 +7,7 @@ Things for CollabVM
 https://drive.google.com/drive/folders/1gBfKZlBp7SGz7Hd3G4w1eusi5EwNylNZ
 
 ### CTGP-R Wii channel animation remade in Godot Windows 8.1+ x86_64 download
-https://mega.nz/file/WDAzGDQQ#Y3a0cLEScDX729D_3-gHgUWPG-3cDhxTCU2TCFrjKiE
+[https://mega.nz/file/WDAzGDQQ#Y3a0cLEScDX729D_3-gHgUWPG-3cDhxTCU2TCFrjKiE](https://mega.nz/file/LagCmJLb#p4PQc3HuJMQ4qK3ZonG8GO87zSaMqCNrtyO_qWAMOIU)
 
 ### Funni twitch stream key
 live_1428356526_uQcbMjGsWiwMQbhzDjElnmO9Y5xNyG
