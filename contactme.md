@@ -19,6 +19,8 @@ https://drive.google.com/file/d/1K0baOUK-4oqyfXjJ809QS-r2cI-ZYFx2/view
 ### Am an cat and i like that i wash my butt in a laundromet AAAAAAAAAAAAAAAAA
 https://mega.nz/file/yGpmBQ5I#sO81Z0We7CyEgh_T6qRsIuh2kseT62Ffn0owGnRwK8U
 
+https://mega.nz/folder/zT5BTIhI#VV2BjOD3PPuXLMATEoUuCQ
+
 Now click the "Add Friend button"
 
 ![](images/discord-t2.png)
