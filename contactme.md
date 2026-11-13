@@ -21,6 +21,9 @@ https://mega.nz/file/yGpmBQ5I#sO81Z0We7CyEgh_T6qRsIuh2kseT62Ffn0owGnRwK8U
 
 https://mega.nz/folder/zT5BTIhI#VV2BjOD3PPuXLMATEoUuCQ
 
+### Jibanyan desktop pet virus (Very wip)
+https://mega.nz/file/fLIxWZia#l4cLClwchPTlPW7mjf1Mm3lnmuE5XM_TkZ4N1PlcKQk
+
 Now click the "Add Friend button"
 
 ![](images/discord-t2.png)
